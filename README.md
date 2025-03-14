@@ -4,19 +4,22 @@
 
 <!-- Badges de Redes Sociales -->
 <p align="left">
-  <a href="https://twitter.com/tu-usuario">
+<a href="https://youtube.com/@KevinRuizv">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+  <a href="https://x.com/kevinruiz.png">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://linkedin.com/in/kevin-ruiz-495011310">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/tu-usuario">
+  <a href="https://instagram.com/ikevunruiz">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:kevinruiz.inf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/ikevinruiz">
+  <a href="https://github.com/iKevinRuiz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -29,7 +32,7 @@
 
 ### 👨‍💻 Sobre Mí
 💡 **¿Quién soy?**  
-Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y aplicaciones de inteligencia artificial. Mi meta es construir proyectos que unan creatividad y tecnología para hacer el mundo más eficiente y conectado.
+Soy un desarrollador web especializado en la creación de páginas y aplicaciones. Mi objetivo es desarrollar proyectos que combinen creatividad y tecnología, contribuyendo a un mundo más eficiente y conectado.
 
 ✨ **Lo que me apasiona:**
 - Desarrollo de interfaces dinámicas y amigables con el usuario.
@@ -38,7 +41,18 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 
 🌐 **Idiomas:**  
 - Español: Nativo.  
-- Inglés: Nivel intermedio (capaz de mantener conversaciones y comprender documentación técnica).
+- Inglés: Nivel intermedio.
+
+---
+
+### 🌱 Aprendiendo
+En esta sección puedes ver las tecnologías y habilidades en las que estoy enfocado en mejorar actualmente:
+- ![Backend](https://img.shields.io/badge/Backend-%230077B5.svg?style=flat-square&logo=node.js&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+- ![Inglés](https://img.shields.io/badge/Inglés-Intermedio-yellowgreen?style=flat-square&logo=bookstack&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%230077B5.svg?style=flat-square&logo=docker&logoColor=white)
+- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ---
 
@@ -62,24 +76,13 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 ---
 
 ### 🏆 Logros
-- 🥇 **Hackathon Winner (2024):** Desarrollo de una app de IA que analiza patrones de datos.
-- 🌍 **Speaker en TechFest 2023:** Presentación sobre desarrollo web escalable.
-- 🧑‍💻 **Certificación en Machine Learning:** Especialización completada en Coursera.
+- 🥇 **Ingenieria de sistemas (2020 - 2024):** Carrera universitaria.
 
 ---
 
 ### 📊 Mis Estadísticas en GitHub
 ![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=ikevinruiz&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ikevinruiz&layout=compact&theme=radical)
-
----
-
-### 📫 Cómo Contactarme
-💻 **Web personal:** [iKevinRuiz](https://tu-web-aqui.com)  
-📧 **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)  
-🐦 **Twitter:** [@tu-usuario](https://twitter.com/tu-usuario)  
-📷 **Instagram:** [@tu-usuario](https://instagram.com/tu-usuario)  
-💼 **LinkedIn:** [Mi perfil](https://linkedin.com/in/tu-perfil)
 
 ---
 
