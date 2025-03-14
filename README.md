@@ -5,17 +5,17 @@
 
   <!-- Badges de Redes Sociales -->
   <p>
+    <a href="https://youtube.com/tu-canal">
+      <img src="https://img.shields.io/badge/YouTube-24K%20Subscribers-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribers">
+    </a>
+    <a href="https://twitch.tv/tu-usuario">
+      <img src="https://img.shields.io/badge/Twitch-Offline-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Status">
+    </a>
     <a href="https://twitter.com/tu-usuario">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+      <img src="https://img.shields.io/badge/Followers-642-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Followers">
     </a>
-    <a href="https://linkedin.com/in/tu-perfil">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://instagram.com/tu-usuario">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:tu-email@ejemplo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <a href="https://discord.com/tu-servidor">
+      <img src="https://img.shields.io/badge/Discord-88%20Online-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Online Users">
     </a>
   </p>
 </div>
@@ -57,13 +57,6 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 - 🥇 **Hackathon Winner (2024):** Desarrollo de una app de IA que analiza patrones de datos.
 - 🌍 **Speaker en TechFest 2023:** Presentación sobre desarrollo web escalable.
 - 🧑‍💻 **Certificación en Machine Learning:** Especialización completada en Coursera.
-
----
-
-### 💼 Proyectos Destacados
-⭐ **[SmartBudget](https://github.com/smart-budget):** Una app web para la gestión inteligente de presupuestos familiares.  
-⭐ **[EcoTravel](https://github.com/ecotravel):** Plataforma para turismo sostenible.  
-⭐ **[CodeLearnersHub](https://github.com/codelearners-hub):** Portal educativo interactivo para aprender a programar.  
 
 ---
 
