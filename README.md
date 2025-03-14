@@ -7,20 +7,17 @@
 <a href="https://youtube.com/@KevinRuizv">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-  <a href="https://x.com/kevinruiz.png">
+  <a href="https://x.com/kevinruizpng">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/kevin-ruiz-495011310">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/ikevunruiz">
+  <a href="https://instagram.com/ikevinruiz">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:kevinruiz.inf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/iKevinRuiz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
