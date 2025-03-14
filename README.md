@@ -92,23 +92,6 @@ En esta sección puedes ver las tecnologías y habilidades en las que estoy enfo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinRuiz&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<!-- Gráfico de Actividad -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iKevinRuiz&theme=radical" alt="GitHub Activity Graph">
-</p>
-
----
-
-### 🏆 My Contributions Breakdown
-
-<!-- Resumen de Contribuciones -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKevinRuiz&theme=radical" alt="Contributions Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iKevinRuiz&theme=radical&utcOffset=-5" alt="Productive Time">
-</p>
-
----
-
 ### 🎉 Fun Facts
 - ☕ **Café + código = felicidad.**
 - ✈️ **Viajar inspira mi creatividad.**
