@@ -1,6 +1,6 @@
 ## Hi, I'm [iKevinRuiz](https://tu-web-aqui.com) 👋
 
-![Banner de Bienvenida](https://github.com/ikevinruiz/banner.jpg)
+![Banner de Bienvenida](./banner.jpg)
 
 ¡Bienvenido/a a mi espacio en GitHub! Soy un desarrollador apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones que impacten positivamente el mundo. 🚀
 
