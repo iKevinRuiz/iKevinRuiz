@@ -80,10 +80,32 @@ En esta sección puedes ver las tecnologías y habilidades en las que estoy enfo
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-![Contribuciones](https://github-readme-activity-graph.cyclic.app/graph?username=iKevinRuiz&theme=radical)
-![Estadísticas generales](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKevinRuiz&theme=radical)
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iKevinRuiz&theme=radical)
+### 📊 My GitHub Statistics
+
+<!-- Estadísticas Generales -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iKevinRuiz&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<!-- Lenguajes Más Usados -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinRuiz&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<!-- Gráfico de Actividad -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iKevinRuiz&theme=radical" alt="GitHub Activity Graph">
+</p>
+
+---
+
+### 🏆 My Contributions Breakdown
+
+<!-- Resumen de Contribuciones -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKevinRuiz&theme=radical" alt="Contributions Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iKevinRuiz&theme=radical&utcOffset=-5" alt="Productive Time">
+</p>
 
 ---
 
