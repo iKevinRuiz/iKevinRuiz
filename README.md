@@ -67,9 +67,3 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 - ✈️ **Viajar inspira mi creatividad.**
 - 🎮 **Estrategia en juegos = optimización en desarrollo.**
 
----
-
-### 🚀 Actualización Automática
-Gracias a [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), este perfil mostrará siempre mis contribuciones más recientes y mi actividad en GitHub de forma dinámica. 🚀
-
-¡Recuerda actualizar la imagen del banner y ajustar los enlaces con los tuyos propios! 😊 Si necesitas agregar más personalización o tienes dudas, dime y seguimos ajustando.
