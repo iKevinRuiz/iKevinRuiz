@@ -81,8 +81,9 @@ En esta sección puedes ver las tecnologías y habilidades en las que estoy enfo
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=ikevinruiz&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ikevinruiz&layout=compact&theme=radical)
+![Contribuciones](https://github-readme-activity-graph.cyclic.app/graph?username=iKevinRuiz&theme=radical)
+![Estadísticas generales](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKevinRuiz&theme=radical)
+![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iKevinRuiz&theme=radical)
 
 ---
 
