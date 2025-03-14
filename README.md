@@ -15,6 +15,10 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 - Innovar y aprender nuevas tecnologías.
 - Conectar con comunidades tecnológicas y compartir ideas.
 
+🌐 **Idiomas:**  
+- Español: Nativo.  
+- Inglés: Nivel intermedio (capaz de mantener conversaciones y comprender documentación técnica).
+
 ---
 
 ### 🌟 Mis Habilidades
@@ -44,7 +48,7 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=ikevinruiz&show_icons=true&theme=radical)  
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=ikevinruiz&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ikevinruiz&layout=compact&theme=radical)
 
 ---
@@ -65,4 +69,7 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 
 ---
 
-¡Con este diseño, tendrás un perfil que destaca visualmente gracias al banner y las insignias! Recuerda reemplazar los enlaces e imágenes con los tuyos propios. 🚀
+### 🚀 Actualización Automática
+Gracias a [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), este perfil mostrará siempre mis contribuciones más recientes y mi actividad en GitHub de forma dinámica. 🚀
+
+¡Recuerda actualizar la imagen del banner y ajustar los enlaces con los tuyos propios! 😊 Si necesitas agregar más personalización o tienes dudas, dime y seguimos ajustando.
