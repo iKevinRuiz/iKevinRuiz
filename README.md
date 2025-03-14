@@ -44,13 +44,22 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 
 ### 🌟 Mis Habilidades
 🛠️ **Lenguajes y Frameworks:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python) ![React](https://img.shields.io/badge/React.js-Front--End-blue?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript) 
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python) 
+![React](https://img.shields.io/badge/React.js-Front--End-blue?style=flat-square&logo=react) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 🖥️ **Herramientas DevOps y Nube:**  
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?style=flat-square&logo=kubernetes) ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat-square&logo=docker) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?style=flat-square&logo=kubernetes) 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 🎨 **Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-Styles-blue?style=flat-square&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Design-teal?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=flat-square&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-Styles-blue?style=flat-square&logo=css3) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Design-teal?style=flat-square&logo=tailwind-css) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
