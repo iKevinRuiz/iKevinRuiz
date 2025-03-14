@@ -66,4 +66,3 @@ Soy un desarrollador de software con un enfoque en el desarrollo web, móvil y a
 - ☕ **Café + código = felicidad.**
 - ✈️ **Viajar inspira mi creatividad.**
 - 🎮 **Estrategia en juegos = optimización en desarrollo.**
-
