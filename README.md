@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://portafoliokr-five.vercel.app/">iKevinRuiz</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="#">iKevinRuiz</a> 👋</h1>
 
 ![Banner de Bienvenida](./banner.jpg)
 
