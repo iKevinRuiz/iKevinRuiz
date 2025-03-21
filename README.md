@@ -86,8 +86,9 @@ En esta sección puedes ver las tecnologías y habilidades en las que estoy enfo
 
 <!-- Lenguajes Más Usados -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinRuiz&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinRuiz&layout=compact&theme=radical&langs_count=10" alt="Top Languages">
 </p>
+
 
 ### 🎉 Fun Facts
 - ☕ **Café + código = felicidad.**
