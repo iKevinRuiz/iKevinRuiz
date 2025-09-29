@@ -1,11 +1,7 @@
 <!-- ====== HERO ====== -->
 <h1 align="center">👋 Hola, soy <b>Kevin Ruiz</b></h1>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&height=45&color=36BCF7&lines=Desarrollador+Web;JavaScript%2C+React%2C+Laravel;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&height=45&color=36BCF7&lines=Desarrollador+Web;JavaScript%2C+React%2C+Laravel;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="typing intro"/>
-  </a>
-</p>
+
 
 <p align="center">
   Construyo <b>interfaces útiles</b> y <b>APIs sólidas</b>. Amante del aprendizaje continuo.
